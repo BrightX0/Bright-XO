@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrightX0. I love exploring the endless world of data science and artificial intelligence. Fascinated by the limitless applications of ML and AI; eager to     learn and discover the depths of data science.
+- 👋 Hi, I’m @BrightX0. I am an avid reader who loves exploring the endless world of data science and artificial intelligence. Fascinated by the limitless applications        of ML and AI; eager to     learn and discover the depths of data science.
 - 👀 I’m also interested in Flutter and Web Development
 - 🌱 I’m currently learning Raspberry pie
 - 💞️ I’m looking to collaborate on Anyone
