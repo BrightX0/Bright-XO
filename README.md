@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BrightX0
-- 👀 I’m interested in Flutter and machine Learning and a little bit of deep learning
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m @BrightX0 I love exploring the endless world of data science and artificial intelligence. Fascinated by the limitless applications of ML and AI; eager to     learn and discover the depths of data science.
+- 👀 I’m also interested in Flutter and Web Development
+- 🌱 I’m currently learning Raspberry pie
 - 💞️ I’m looking to collaborate on Anyone
 - 📫 How to reach me augustinobright@gmail.com
 
